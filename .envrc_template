@@ -1,0 +1,2 @@
+# Google sheet url (File->publish to web->as CSV)
+export GSHEET_PUBLISHED_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vSSSSS....aoeu/pub?gid=2002002003&single=true&output=csv'
